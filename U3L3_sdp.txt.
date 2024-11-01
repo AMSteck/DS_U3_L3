@@ -1,0 +1,8 @@
+1. when there is only one item in the numberlist
+
+2. Each numberlist is split in half until it can no longer split
+
+3.splicing, int, and len. int(len(numberlist)/2).the make two varibles with the contents [middle:] and [:middle]
+
+4. it requires less code. the two final lists are already sorted so you can just check the first two in each list instead of comparing each indivual spot 
+in both lists
